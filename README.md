@@ -1,4 +1,4 @@
-Statistics for Data Science
+Statistics for Data Science: 
 This repository contains Python scripts and Jupyter Notebooks focusing on statistical analysis techniques commonly used in data science. Below is a brief overview of each script/notebook included:
 
 1. Mean, Median, and Mode
